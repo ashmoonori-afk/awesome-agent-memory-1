@@ -25,6 +25,7 @@ Contributions welcome. Please keep entries factual and free of marketing languag
 
 ## Open-source frameworks and engines
 
+- [birkin-mnemosyne](https://github.com/ashmoonori-afk/birkin-mnemosyne) - MIT local Markdown memory for agents with multilingual BM25 recall that handles Hangul and CJK, usage-based decay, and an optional MCP server; the core has no runtime dependencies.
 - [chamnan](https://github.com/ArcticFox2029/chamnan) - MIT repository-local memory for coding agents that stores an architecture index, an impact map, session records, and decisions as markdown committed beside the code, retrieved by keyword and injected at session start. Python standard library only, no network at runtime.
 - [Cognee](https://github.com/topoteretes/cognee) - Apache-2.0 memory framework that builds a self-hosted knowledge graph via an extract-cognify-load pipeline combining vector and graph retrieval.
 - [Dory](https://github.com/tjqscott/dory) - MIT project-memory tool for coding agents, using a linked Markdown wiki with decisions, findings, and tasks, plus Claude Code hooks for session-start loading and structural linting.
